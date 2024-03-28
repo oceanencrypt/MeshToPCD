@@ -17,6 +17,7 @@
 // ./pcd_viewer ../output/monkey.pcd -ps 5 -normals 1 -normals_scale 1
 
 #include <iostream>
+#include <cstring>
 #include <vector>
 #include <stdlib.h> /* srand, rand */
 #include <time.h>   /* time */
